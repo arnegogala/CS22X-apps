@@ -952,7 +952,7 @@ Resources:
           - 0
           - Fn::GetAZs: ""
       Engine: mysql
-      EngineVersion: 8.0.33
+      EngineVersion: 8.0.45
       MasterUsername: admin
       MasterUserPassword: redhat123
       Port: "3306"
